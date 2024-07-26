@@ -19,11 +19,11 @@ Projekt "UsersCRUD" to aplikacja webowa umożliwiająca zarządzanie użytkownik
 - **Opis:** Umożliwia dodanie nowego użytkownika. Po zatwierdzeniu formularza użytkownik jest przekierowywany do listy użytkowników.
 
 ### Formularz Edycji Użytkownika
-- **Adres URL:** `/user/edit`
+- **Adres URL:** `/user/edit{id}`
 - **Opis:** Umożliwia edytowanie danych istniejącego użytkownika. Formularz wyświetla aktualne dane użytkownika (oprócz hasła, które należy wpisać ponownie). Po zapisaniu zmian użytkownik jest przekierowywany do listy użytkowników.
 
 ### Wyświetlanie Danych Użytkownika
-- **Adres URL:** `/user/showUser`
+- **Adres URL:** `/showUser{id}`
 - **Opis:** Wyświetla szczegółowe informacje o użytkowniku. Po przeglądnięciu danych użytkownik jest przekierowywany do listy użytkowników.
 
 ### Usuwanie Użytkownika
