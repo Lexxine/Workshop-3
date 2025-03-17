@@ -13,7 +13,6 @@ Projekt "UsersCRUD" to aplikacja webowa umożliwiająca zarządzanie użytkownik
   - Edytowania wybranego użytkownika.
   - Przeglądania szczegółów wybranego użytkownika.
 - **Link do formularza dodawania użytkownika:** Umożliwia przejście do formularza dodawania nowego użytkownika.
-  ![Zdjęcie ekranu głównego](Workshop-3/untitled/src/main/webapp/theme/img/Screenshot1.png)
 ### Formularz Dodawania Użytkownika
 - **Adres URL:** `/createUser`
 - **Opis:** Umożliwia dodanie nowego użytkownika. Po zatwierdzeniu formularza użytkownik jest przekierowywany do listy użytkowników.
